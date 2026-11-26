@@ -1,5 +1,7 @@
 # TOTP Generator
 
+[![Tests](https://github.com/Json8913/totp-generator/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/Json8913/totp-generator/actions/workflows/tests.yml)
+
 A small command-line authenticator that creates and checks six-digit time-based one-time passwords. It uses the standard HMAC-SHA1 TOTP method and works offline.
 
 **Author:** Jason Santos Ritchie
