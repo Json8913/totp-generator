@@ -11,6 +11,14 @@ This is a learning project. It is not a replacement for a maintained authenticat
 - Python 3.10 or newer
 - No third-party packages
 
+## Desktop authenticator
+
+Run:
+
+    python3 gui.py
+
+Enter a test Base32 secret or create a new one to display the current code. The interface keeps the secret in memory only and clears it when the window closes. Use test accounts; do not experiment with important account secrets.
+
 ## Make a secret
 
     python3 totp.py new-secret
