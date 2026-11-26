@@ -2,6 +2,8 @@
 
 A small command-line authenticator that creates and checks six-digit time-based one-time passwords. It uses the standard HMAC-SHA1 TOTP method and works offline.
 
+**Author:** Jason Santos Ritchie
+
 This is a learning project. It is not a replacement for a maintained authenticator app or a secure enterprise identity system.
 
 ## Requirements
